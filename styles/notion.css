@@ -382,3 +382,44 @@
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
   display: none;
 }
+
+/* Custom styles for ukraineatwar.today */
+
+.notion-page-no-cover {
+  margin-top: 48px !important;
+  padding: 0 8px !important;
+  width: 710px;
+}
+
+.notion-header {
+  display: none !important;
+}
+
+.notion-title {
+  margin-bottom: 4px;
+}
+
+.notion-block-aa79dd562bde404fa376f262612c60ea {
+  text-align: center;
+}
+
+.notion-hr {
+  margin: 24px 0;
+}
+
+.notion-h2 {
+  margin-top: 0.5em;
+}
+
+.notion-list li {
+  padding: 3px 0;
+  white-space: pre-wrap;
+}
+
+.notion-link {
+  opacity: 0.7;
+}
+
+.notion-link:hover {
+  background-image: linear-gradient(90deg, #015AB8 0 50%, #FDDD00 50% 100%);
+}
