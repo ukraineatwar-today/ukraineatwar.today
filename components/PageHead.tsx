@@ -50,7 +50,7 @@ export const PageHead: React.FC<
       <meta name='twitter:image' content={socialImageUrl} />
       <meta property="og:image" content={socialImageUrl} />
       <meta property="og:image:type" content="image/png" />
-      <meta property="og:image:width" content="2088" />
+      <meta property="og:image:width" content="2147" />
       <meta property="og:image:height" content="476" />
 
       {url && (
