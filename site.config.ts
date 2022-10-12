@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Ukraine at war. Today.',
+  name: 'Supporting Ukraine',
   domain: 'ukraineatwar.today',
   author: 'Ukraine At War Today',
 
   // open graph metadata (optional)
-  description: 'Simple steps to help Ukraine through these tough times.',
+  description: 'Small steps that can make a big difference',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
