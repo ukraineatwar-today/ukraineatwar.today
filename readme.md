@@ -32,4 +32,4 @@ MIT © Ukraine At War Today
 ## Credits
 
 * [Next.JS Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) by [Travis Fischer](https://transitivebullsh.it/).
-* [Emoji Favicons > Fire by John Sorrentino](https://favicon.io/emoji-favicons/fire)
+* [Emoji Favicons > Flag Ukraine by John Sorrentino](https://favicon.io/emoji-favicons/flag-ukraine)
