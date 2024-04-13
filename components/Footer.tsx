@@ -12,7 +12,7 @@ export const FooterImpl: React.FC = () => {
       <div className={styles.copyright}>© {year} {config.author}</div>
       <div className={styles.contact}>
         Got feedback?{' '}
-        <a href="mailto:ukraine.at.war.feedback@gmail.com">
+        <a href="mailto:mail@ukraineatwar.today">
           Let us know
         </a>
       </div>
